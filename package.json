@@ -1,0 +1,8 @@
+{
+  "name": "bubblebotz",
+  "version": "1.0.0"
+  "description": "A bot specially for use in Bubblez's Group...",
+  "main": "bot.js",
+  "author": "Balblez",
+  "dependencies": {}
+}
